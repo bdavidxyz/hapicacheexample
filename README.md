@@ -1,5 +1,8 @@
-npm install
-$(npm bin)/nodemon .
+```
+$ npm install
+$ $(npm bin)/nodemon .
+```
+
 
 open browser at http://localhost:3000/?count=1
 
